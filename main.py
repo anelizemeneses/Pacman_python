@@ -1,4 +1,4 @@
-#O CÓDIGO SÓ SERÁ EXECUTADO SE A BIBLIOTECA DO PYGAME ESTIVER INSTALADO
+#O CÓDIGO SÓ SERÁ EXECUTADO SE A BIBLIOTECA DO PYGAME ESTIVER INSTALADA
 #para pausar ou despausar de o jogo, só é preciso pressionar a tecla "P"
 
 import pygame
