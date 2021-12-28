@@ -12,7 +12,7 @@ font = pygame.font.SysFont("arial", 20, True, False)
 
 yellow = (255, 255, 0)
 black = (0, 0, 0)
-blue = (100, 180, 250) #Se deixar as sequências dos números em "0, 0 , 255", você vai obter o azul normal(escuro)
+blue = (100, 180, 250) #Para você obter o azul normal(escuro) basta mudar os números para (0, 0, 255)
 red = (255, 0, 0)
 white = (255, 255, 255)
 orange = (255, 140, 0)
