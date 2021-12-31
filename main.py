@@ -1,5 +1,5 @@
 #O CÓDIGO SÓ SERÁ EXECUTADO SE A BIBLIOTECA DO PYGAME ESTIVER INSTALADA
-#para pausar ou despausar de o jogo, só é preciso pressionar a tecla "P"
+#para pausar ou despausar de o jogo, basta pressionar a tecla "P"
 
 import pygame
 from abc import ABCMeta, abstractmethod
@@ -12,7 +12,7 @@ font = pygame.font.SysFont("arial", 20, True, False)
 
 yellow = (255, 255, 0)
 black = (0, 0, 0)
-blue = (100, 180, 250) #Para você obter o azul normal(escuro) basta mudar os números para (0, 0, 255)
+blue = (100, 180, 250) #Para obter o azul normal(escuro) basta mudar os números para (0, 0, 255)
 red = (255, 0, 0)
 white = (255, 255, 255)
 orange = (255, 140, 0)
